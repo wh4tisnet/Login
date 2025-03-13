@@ -12,10 +12,5 @@
         <Button Content="Delete User" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="316,281,0,0" Width="150" Height="30" Click="DeleteUser_Click" Background="BlueViolet"/>
         <Button Content="Create new user" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="46,281,0,0" Width="120" Height="30" Click="Createuser_Click" Background="Orange"/>
         <Button Content="Edit user" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="486,281,0,0" Width="120" Height="30" Click="Editsuser_Click" Background="Orange"/>
-        <Image Name="Image" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="200" Margin="556,41,0,0">
-            <Image.Source>
-                <BitmapImage UriSource="C:\Users\abel.alvarez\Downloads\OIP.jpg" />
-            </Image.Source>
-        </Image>
     </Grid>
 </Window>
