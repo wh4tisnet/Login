@@ -15,10 +15,5 @@
         <Button Content="Login" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="159,249,0,0" Width="120" Height="46" Click="LoginButton_Click" Foreground="Black" Background="LightBlue"/>
         <CheckBox Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="381,187,0,0" Checked="ShowPassword_Checked" Unchecked="ShowPassword_Unchecked" Width="22"/>
         <Button Content="Password reset" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="299,249,0,0" Width="120" Height="46" Click="ResetButton_Click" Background="pink"/>
-        <Image Name="Image" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Height="200" Margin="512,95,0,0">
-            <Image.Source>
-                <BitmapImage UriSource="C:\Users\abel.alvarez\Downloads\dog.png" />
-            </Image.Source>
-        </Image>
     </Grid>
 </Window>
