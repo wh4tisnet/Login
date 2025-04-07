@@ -1,7 +1,3 @@
-Here's a draft README file for your login program repository:
-
----
-
 # Login System
 
 This repository contains a simple and efficient login system implemented in **C#**. The program is designed to handle user authentication securely and can be integrated into larger projects.
